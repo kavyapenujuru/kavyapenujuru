@@ -8,6 +8,8 @@
 - Reach me on kavyanagaraj.p@gmail.com
 ## Data Science - How do you solve real problems using DATA
 
+## Data Analysis - It is a process of inspecting, cleaning, transforming and modeling data with the goal of discovering useful information, suggesting conclusions, and supporting decision-making
+
 <!---
 kavyapenujuru/kavyapenujuru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
